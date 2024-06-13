@@ -1,0 +1,9 @@
+DB Name: inventory_system
+
+User name: admin
+Pass: admin
+
+User name: user
+Pass: user
+
+
